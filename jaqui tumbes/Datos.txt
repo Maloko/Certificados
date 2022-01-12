@@ -1,0 +1,1 @@
+INSERT INTO `empresa` VALUES ('1', 'GOMEZ PACHERRES JACQUELINE ROXANA', '10426057838', 'Jr. Huascar Nro. 542 INT. 01 - TUMBES  - TUMBES -TUMBES', '072-637148', '989187175', 'GOMEZ PACHERRES JACQUELINE ROXANA', '', '5', '2014-05-15 09:56:27', 'CertificadoPFX.pfx', 'McvaeEcth8DLZ9ks', 'GOME2018', 'GOME2018', null, 'https://e-beta.sunat.gob.pe/ol-ti-itcpfegem-beta/billService');
